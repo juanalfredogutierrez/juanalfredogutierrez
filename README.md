@@ -125,10 +125,10 @@ Aplico herramientas de inteligencia artificial para:
 # 🌐 Contacto
 
 💼 LinkedIn  
-https://linkedin.com/in/juan-alfredo-gutierrez-b0b127210
+https://linkedin.com/in/juanalfredogutierrezb0b127210
 
 💻 GitHub  
-https://github.com/JuanAzure
+https://github.com/juanalfredogutierrez
 
 📧 Email  
 jgutierrez_pe@outlook.com
