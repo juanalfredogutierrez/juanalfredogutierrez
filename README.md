@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy Juan
 
-<!--
-**juanalfredogutierrez/juanalfredogutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior .NET Full Stack Developer | Arquitecto de Software | Cloud Enthusiast**
 
-Here are some ideas to get you started:
+Me especializo en el diseño y migración de arquitecturas modernas con **.NET, Angular y Azure**, aplicando patrones como **DDD y CQRS** para construir sistemas escalables y mantenibles. Combino experiencia en backend, frontend y DevOps para entregar soluciones completas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Stack principal
+- **Backend:** .NET 6/8, ASP.NET Core, EF Core, DDD, CQRS
+- **Frontend:** Angular 16, TypeScript, RxJS
+- **Cloud:** Azure Functions, Blob Storage, SQL Azure
+- **DevOps:** GitHub Actions, CI/CD, Docker, Kubernetes
+- **Testing:** xUnit, Moq, NUnit
+
+---
+
+## 📌 Proyectos destacados
+- 🔄 Migración de sistemas legacy a .NET 6 + Angular 16
+- 📑 Plataforma de facturación electrónica con integración SUNAT
+- 🛡️ Arquitectura DDD + CQRS con pruebas unitarias (xUnit + Moq)
+- 📊 Automatización de reportes con SQL + Excel + Azure Functions
+
+---
+
+## 📈 Estadísticas
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 📧 juan@example.com
+- 📝 Blog técnico: [juan.dev](https://juan.dev)
+
+---
+
+✨ *“El código limpio y la arquitectura sólida son la base de sistemas que perduran.”*
