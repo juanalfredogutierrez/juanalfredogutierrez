@@ -69,7 +69,9 @@ Trabajo aplicando principios y patrones modernos de ingeniería de software:
 ## Base de Datos
 - SQL Server
 - Azure SQL
-
+- Oracle
+- MongoDB
+- MySQL
 ---
 
 # 💼 Experiencia Profesional
@@ -87,6 +89,7 @@ He liderado la evolución tecnológica de plataformas financieras, participando 
 También he trabajado en proyectos que incluyen:
 
 - Integración con **SAP**
+- Integración con **Proveedores de seguros**
 - Sistemas de **biometría**
 - Plataformas financieras
 - ERP empresariales
