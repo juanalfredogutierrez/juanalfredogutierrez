@@ -1,49 +1,52 @@
-# 👋 Hi, I'm Juan Alfredo Gutierrez
+# 👋 Hola, soy Juan Alfredo Gutiérrez
 
-💻 **Senior .NET Developer | Software Architect | Cloud & Microservices**
+💻 **Senior .NET Developer | Arquitectura de Software | Cloud & Microservicios**
 
-I am a Systems Engineer with **8+ years of experience building enterprise software**, specializing in **.NET, microservices architecture, and cloud solutions on Azure**.
+Ingeniero de Sistemas con **más de 8 años de experiencia en desarrollo de software empresarial y liderazgo técnico** en entornos críticos. Especializado en **arquitecturas escalables basadas en microservicios, Domain Driven Design (DDD) y soluciones cloud sobre Microsoft Azure**.
 
-My focus is on designing **scalable, maintainable systems aligned with business goals**, applying modern practices such as **DDD, CQRS, Clean Architecture, and DevOps**.
+Tengo experiencia modernizando **sistemas legacy hacia arquitecturas modernas**, definiendo estándares técnicos y acompañando equipos de desarrollo en la construcción de soluciones robustas, escalables y mantenibles.
 
-Currently working as **Tech Lead**, leading modernization of financial platforms and helping teams build robust distributed systems.
-
----
-
-## 🚀 What I Do
-
-- Design **scalable software architectures**
-- Lead **technical decisions and development teams**
-- Modernize **legacy systems to modern .NET and cloud**
-- Build **microservices-based platforms**
-- Implement **CI/CD and DevOps practices**
-- Integrate complex enterprise systems
+Actualmente me desempeño como **Tech Lead**, liderando iniciativas de modernización tecnológica y arquitectura de software en plataformas financieras.
 
 ---
 
-## 🏗️ Architecture & Engineering Practices
+# 🚀 En qué me especializo
+
+- Diseño de **arquitecturas de software escalables**
+- Modernización de **sistemas legacy**
+- Desarrollo de **APIs empresariales con .NET**
+- Arquitectura de **microservicios**
+- Implementación de **CI/CD y DevOps**
+- Integración de **sistemas empresariales complejos**
+- Liderazgo técnico y **mentoring de equipos**
+
+---
+
+# 🏗️ Arquitectura y buenas prácticas
+
+Trabajo aplicando principios y patrones modernos de ingeniería de software:
 
 - Domain Driven Design (DDD)
 - CQRS
 - Clean Architecture
-- Microservices
-- Event-driven architecture
-- RESTful APIs
-- Observability & Monitoring
-- DevOps & CI/CD
+- Microservicios
+- Arquitectura orientada a eventos
+- APIs REST escalables
+- Observabilidad y monitoreo
+- Integración de sistemas
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Stack Tecnológico
 
-### Backend
+## Backend
 - C#
 - .NET 6 / .NET 7 / .NET 8
 - ASP.NET Core
 - Entity Framework Core
 - Dapper
 
-### Cloud & DevOps
+## Cloud & DevOps
 - Microsoft Azure
 - Azure App Services
 - Azure Functions
@@ -53,49 +56,73 @@ Currently working as **Tech Lead**, leading modernization of financial platforms
 - GitHub Actions
 - Azure DevOps
 
-### Architecture & Messaging
+## Sistemas Distribuidos
 - RabbitMQ
-- Distributed systems
-- Microservices architecture
+- Arquitectura basada en eventos
+- Integración de servicios
 
-### Frontend
-- Angular (8–16)
+## Frontend
+- Angular (8 – 16)
 - TypeScript
 - Angular Material
 
-### Databases
+## Base de Datos
 - SQL Server
 - Azure SQL
 
 ---
 
-## 💼 Professional Highlights
+# 💼 Experiencia Profesional
 
-✔ Tech Lead in **financial systems modernization**  
-✔ Migration from **.NET Framework to .NET 6 microservices architecture**  
-✔ Design of **high scalability REST APIs**  
-✔ Implementation of **CI/CD pipelines**  
-✔ Integration with **SAP, biometric systems, and financial services**  
-✔ Experience in **banking, financial services, ERP, and government systems**
+### Tech Lead / Senior .NET Developer
+He liderado la evolución tecnológica de plataformas financieras, participando en:
 
----
+- Definición de arquitectura basada en **DDD y CQRS**
+- Migración de **.NET Framework hacia .NET moderno**
+- Diseño de **APIs escalables con ASP.NET Core**
+- Implementación de **pipelines CI/CD**
+- Despliegues en **infraestructura cloud sobre Azure**
+- Coordinación técnica con stakeholders de negocio
 
-## 📚 Continuous Learning
+También he trabajado en proyectos que incluyen:
 
-- Microservices Architecture in .NET
-- Kubernetes for Azure Developers
-- DevOps with Microsoft Azure
-- Messaging Systems (Kafka, RabbitMQ, ActiveMQ)
-
----
-
-## 📊 GitHub Stats
-
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight)
+- Integración con **SAP**
+- Sistemas de **biometría**
+- Plataformas financieras
+- ERP empresariales
+- Sistemas del sector público
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Aprendizaje continuo
+
+Me mantengo constantemente actualizado en tecnologías y arquitectura moderna:
+
+- Arquitectura de Microservicios en .NET
+- Kubernetes en Azure (AKS)
+- DevOps con Microsoft Azure
+- Sistemas de mensajería (Kafka, RabbitMQ, ActiveMQ)
+
+---
+
+# 🤖 Ingeniería asistida por IA
+
+Aplico herramientas de inteligencia artificial para:
+
+- Optimización de código
+- Debugging avanzado
+- Generación de soluciones técnicas
+- Exploración de nuevas arquitecturas
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight)
+
+---
+
+# 🌐 Contacto
 
 💼 LinkedIn  
 https://linkedin.com/in/juan-alfredo-gutierrez-b0b127210
@@ -106,8 +133,8 @@ https://github.com/JuanAzure
 📧 Email  
 jgutierrez_pe@outlook.com
 
-📍 Peru
+📍 Perú
 
 ---
 
-⭐ Always interested in **software architecture, distributed systems, and cloud-native solutions.**
+⭐ Interesado en **arquitectura de software, sistemas distribuidos y soluciones cloud-native**.
