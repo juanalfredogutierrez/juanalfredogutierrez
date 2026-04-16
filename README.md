@@ -119,12 +119,6 @@ Aplico herramientas de inteligencia artificial para:
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight)
-
----
-
 # 🌐 Contacto
 
 💼 LinkedIn  
