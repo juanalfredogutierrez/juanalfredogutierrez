@@ -2,7 +2,7 @@
 
 💻 **Senior .NET Developer | Arquitectura de Software | Cloud & Microservicios**
 
-Ingeniero de Sistemas con **más de 8 años de experiencia en desarrollo de software empresarial y liderazgo técnico** en entornos críticos. Especializado en **arquitecturas escalables basadas en microservicios, Domain Driven Design (DDD) y soluciones cloud sobre Microsoft Azure**.
+Ingeniero de Sistemas con **con de experiencia en desarrollo de software empresarial y liderazgo técnico** en entornos críticos. Especializado en **arquitecturas escalables basadas en microservicios, Domain Driven Design (DDD) y soluciones cloud sobre Microsoft Azure**.
 
 Tengo experiencia modernizando **sistemas legacy hacia arquitecturas modernas**, definiendo estándares técnicos y acompañando equipos de desarrollo en la construcción de soluciones robustas, escalables y mantenibles.
 
