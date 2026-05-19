@@ -76,7 +76,7 @@ Trabajo aplicando principios y patrones modernos de ingeniería de software:
 
 # 💼 Experiencia Profesional
 
-### Tech Lead / Senior .NET Developer
+### Senior .NET Developer
 He liderado la evolución tecnológica de plataformas financieras, participando en:
 
 - Definición de arquitectura basada en **DDD y CQRS**
