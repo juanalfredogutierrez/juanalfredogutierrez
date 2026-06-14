@@ -1,51 +1,47 @@
 # 👋 Hi, I'm Juan Alfredo Gutiérrez
 
-**Senior Software Engineer | Tech Lead | .NET | Azure | Software Architecture | Microservices | AI Solutions**
+**Technical Leader | Senior Software Engineer | .NET, Azure & Angular | Distributed Systems | Financial Platforms**
 
-I am a Senior Software Engineer with more than 6 years of experience building enterprise applications, financial platforms, and high-concurrency systems.
+I'm a Software Engineer with more than 8 years of experience building enterprise applications and mission-critical platforms across financial, essential services and commercial sectors.
 
-Over the last 2 years, I have taken on technical leadership responsibilities, guiding development teams, driving architectural decisions, promoting engineering best practices, and delivering solutions aligned with business goals.
+Over the last two years, I have evolved into technical leadership responsibilities, combining hands-on engineering with mentoring, code reviews, architectural decision-making and cross-functional collaboration.
 
-I currently combine software development, software architecture, cloud-native technologies, and AI-driven solutions to design scalable, maintainable, and business-focused platforms.
-
----
-
-## 🚀 What I Do
-
-* Design scalable software architectures
-* Build cloud-native applications on Microsoft Azure
-* Develop enterprise-grade APIs with .NET
-* Design and implement Microservices Architectures
-* Modernize legacy systems
-* Lead technical teams and mentor developers
-* Build AI-powered solutions and intelligent applications
-* Integrate enterprise platforms and distributed systems
+I enjoy working at the intersection of technology and business, helping teams deliver scalable, maintainable solutions that create real impact.
 
 ---
 
-## 🏗️ Architecture & Engineering
+## 🚀 What I Focus On
 
-I enjoy applying modern software engineering principles and architectural patterns:
+* Building enterprise applications with .NET and Azure.
+* Designing distributed systems and cloud-native solutions.
+* Leading technical initiatives while staying close to the code.
+* Modernizing legacy applications and improving engineering practices.
+* Developing secure and scalable APIs.
+* Mentoring developers and fostering continuous improvement.
+
+---
+
+## 🏗️ Engineering Principles
+
+Some of the principles and architectural approaches I frequently apply:
 
 * Domain-Driven Design (DDD)
 * CQRS
-* Clean Architecture
 * Hexagonal Architecture
+* Clean Architecture
 * Microservices
 * Event-Driven Architecture
-* Distributed Systems
-* API Design
-* Observability & Monitoring
-* DevOps & CI/CD
+* Observability and Monitoring
+* DevOps and CI/CD
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Core Technologies
 
 ### Backend
 
 * C#
-* .NET 8 / ASP.NET Core
+* .NET / ASP.NET Core
 * Entity Framework Core
 * Dapper
 * MediatR
@@ -53,102 +49,69 @@ I enjoy applying modern software engineering principles and architectural patter
 ### Cloud & DevOps
 
 * Microsoft Azure
-* Azure App Services
+* App Services
 * Azure Functions
-* Azure SQL
+* Azure Service Bus
 * Docker
-* Kubernetes (AKS)
 * GitHub Actions
 * Azure DevOps
-
-### Messaging & Distributed Systems
-
-* RabbitMQ
-* Kafka
-* Event-Driven Integration
-* Distributed Messaging
 
 ### Frontend
 
 * Angular
 * React
 * TypeScript
-* Angular Material
 
-### Databases
+### Data
 
 * SQL Server
-* Oracle Database
+* Oracle
 * MongoDB
-* MySQL
-
----
-
-## 🤖 AI Engineering
-
-Currently exploring and building AI-powered applications using:
-
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* OpenAI
-* Gemini
-* AI-Assisted Software Development
-* Intelligent Enterprise Solutions
 
 ---
 
 ## 📌 Featured Projects
 
-### Core Banking Microservices
-
-Enterprise banking platform built using .NET, CQRS, RabbitMQ, Clean Architecture, and Event-Driven Design.
-
 ### Retail Inventory Platform
 
-Cloud-native inventory management platform developed with .NET 8 Microservices, Angular, RabbitMQ, and Docker.
+Cloud-native inventory management platform built with .NET 8 Microservices, Angular, RabbitMQ and Docker, showcasing CQRS and Event-Driven Architecture.
 
-### AI Chat Platform
+### Financial Platform (Fintech)
 
-AI-powered platform implementing RAG, Agentic AI, OpenAI, and Gemini for intelligent conversations and knowledge retrieval.
+High-volume financial platform supporting critical business operations through asynchronous processing, resilient integrations and distributed systems.
 
-### Oracle + .NET API Lab
+### AI Exploration Lab
 
-Enterprise API development using ASP.NET Core, Oracle Database, PL/SQL, Result Pattern, and Clean Architecture principles.
+Personal initiatives exploring RAG, Agentic AI and Large Language Models to understand how AI can enhance enterprise scenarios.
 
 ---
 
-## 🌎 Enterprise Integration Experience
+## 🌐 Enterprise Integration Experience
 
-Throughout my career I have participated in projects involving integrations with:
+Throughout my career, I have participated in projects involving integrations with:
 
 * SAP
 * SUNAT
-* Insurance Providers
-* Biometric Platforms
-* Financial Institutions
-* ERP Systems
-* Government Platforms
+* Financial institutions
+* Biometric platforms
+* Insurance providers
+* ERP systems
+* Government platforms
 
 ---
 
 ## 🎓 Continuous Learning
 
-I am currently pursuing a postgraduate program in Information Technologies, strengthening my capabilities in:
-
-* Technology Leadership
-* Innovation Management
-* Enterprise Architecture
-* Digital Transformation
-* Strategic Technology Planning
+Currently pursuing a **Master's Degree in Information Technology Management** at **ESAN Graduate School of Business**, strengthening my capabilities in leadership, innovation and technology strategy.
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: linkedin.com/in/juanalfredogutierrezb0b127210
+* Portfolio: juanalfredogutierrez.github.io
 * GitHub: github.com/juanalfredogutierrez
 
 ---
 
-⭐ Passionate about Software Architecture, Distributed Systems, Cloud-Native Solutions, AI Engineering, and building technology that creates real business impact.
+⭐ I believe great software is built by combining strong engineering practices, continuous learning and a genuine understanding of business needs.
